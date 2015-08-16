@@ -14,11 +14,6 @@ inStr = raw_input("> ")
 # Result stored here
 pigLatin = ""
 
-# Function to check whether a character is a vowel
-# Used to check the first character of the word
-#def isVowel(ch):
-#	return ch in ['a', 'e', 'i', 'u', 'o']
-
 # Check if word begins with a vowel
 matchGroup = re.match(r'[aiuoe]', inStr)
 
