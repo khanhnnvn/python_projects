@@ -1,2 +1,0 @@
-from1@gmail.com from1pass
-from2@outlook.com from2pass
