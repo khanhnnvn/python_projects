@@ -63,7 +63,7 @@ def result(userInput, comInput):
 				return 'u'
 			else:
 				return 'c'
-		else:	# userInput = 's'
+		else:	# userInput == 's'
 			if comInput == 'r':
 				return 'c'
 			else:
