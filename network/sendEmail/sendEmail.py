@@ -35,7 +35,7 @@ else:
 	print "body.txt does not exist"
 
 # This variable stores number of TO email to send
-NUMBER_OF_EMAILS = 2
+NUMBER_OF_EMAILS = 500
 
 # Set the email body content to be sent as HTML 
 body = MIMEText(emailBody, 'html')
