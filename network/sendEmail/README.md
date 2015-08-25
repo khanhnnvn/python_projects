@@ -2,8 +2,8 @@ This project contains following files:
 
 1. sendEmail.py - source code
 2. body.txt - contains email content
-3. from.txt - contains all emails used to send 
-4. to.txt - contains all emails used to receive email
+3. from.txt - contains all emails used to send, each line contains email and password, must be separated by a single space
+4. to.txt - contains all emails used to receive email, each email in a separate line
 
 Logic:
 
@@ -15,3 +15,6 @@ Logic:
 - Setup SMTP SSL server and login to Gmail by each sender got from from.txt
 - Send the email to every senders got from to.txt by joining all receiver emails to a single string, separated by commas
 - Must set the MIMEText() mode to 'html' so the email body can display as HTML 
+
+Note:
+- The program still does not check if records in from.txt are separated by a single space, will update in future
