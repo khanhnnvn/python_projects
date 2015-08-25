@@ -1,0 +1,35 @@
+<span style="font-family: 'Play'"><span style="color: #70707f">Chào các bạn, anh em đồng nghiệp. </span></span><br />
+<span style="font-family: 'Play'"><span style="color: #70707f">Python Việt Nam tiếp tục tuyển sinh khóa học lập trình Python ứng dụng thực tế ( PBC03 - 2015).</span></span><br />
+<span style="font-family: 'Play'"><span style="color: #70707f">Sau khi hoàn thành khóa học, học viên sẽ:</span></span><br />
+<span style="font-family: 'Play'"><span style="color: #70707f">- Nắm thật nhanh kỹ năng lập trình Python qua các ví dụ, bài tập thực hành.<br />
+- Làm quen với một số thư viện hữu dụng để áp dụng ngay vào công việc hoặc học tập sau này.<br />
+- Cơ hội tiếp xúc với các chuyên gia đang làm việc hàng ngày với Python cộng với cơ hội việc làm về Python.<br />
+- Khóa học cung cấp kiến thức đến học viên qua các ví dụ thực tế với phương pháp truyền đạt đổi mới.</span></span><br />
+<span style="font-family: 'Play'"><span style="color: #70707f"> </span></span><br />
+<span style="font-family: 'Play'"><span style="color: #70707f">Các bạn đăng ký tại: <a href="http://goo.gl/forms/ZN72VcHTjD" target="_blank" class="externalLink">http://goo.gl/forms/ZN72VcHTjD</a></span></span><br />
+<span style="font-family: 'Play'"><span style="color: #70707f"></span></span><br />
+<span style="font-family: 'Play'"><span style="color: #70707f">Nội dung chương trình như sau:</span></span><br />
+<span style="font-family: 'Play'"><span style="color: #70707f">Buổi 1: Giới thiệu ngôn ngữ lập trình Python.<br />
+Buổi 2: Giới thiệu và thực hành với biến, bằng và biểu thức trong Python<br />
+Buổi 3: Điều kiển luồng và ứng dụng trong các bài toán.<br />
+Buổi 4, 5, 6: List, Dictionary, Tuple, String: Giới thiệu và cách sử dụng.<br />
+Buổi 7, 8: Thực hành hàm và module<br />
+Buổi 9: File I/O: Xử lý tập tin trong Python<br />
+Buổi 10: Lập trình hướng đối tượng trong Python.<br />
+Buổi 11, 12, 13: Cơ sở dữ liệu trong Python: Ứng dụng trong việc lưu trữ dữ liệu<br />
+Buổi 14: Thread: Giới thiệu và cách sử dụng.<br />
+Buổi 15: Thực hành Networking sử dụng Python<br />
+Buổi 16: Q&amp;A.</span></span><br />
+<span style="font-family: 'Play'"><span style="color: #70707f">Thời gian bắt đầu : dự kiến 15/10/2015. ( lịch học sẽ được thông báo cụ thể đến từng học viên đăng ký)<br />
+Số lượng: 25 học viên (tối đa)<br />
+Lịch học dự kiến: Thứ 4,6 ( từ 18h30 đến 20h30)<br />
+Số lượng buổi học: 16 buổi ( Tuần 2 buổi, trong 2 tháng)<br />
+Địa điểm học: 14/34, Hoàng Cầu, Đống Đa, Hà Nội<br />
+Học phí: 1.800.000 VNĐ ( với sinh viên)<br />
+2.000.000 VNĐ ( với người đi làm)</span></span><br />
+<span style="font-family: 'Play'"><span style="color: #70707f">Mọi chi tiết xin liên hệ:<br />
+Nguyễn Ngọc Khánh<br />
+Mobile: 09186 12485<br />
+Skype: khanhnnvn</span></span><br />
+<span style="font-family: 'Play'"><span style="color: #70707f">* Các bạn chú ý các nguồn thông tin tuyển sinh khác không phải là của cộng đồng Python Việt Nam.<br />
+* Học phí sẽ không hoàn lại nếu bạn đã tham gia lớp học.</span></span>
