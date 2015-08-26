@@ -66,7 +66,7 @@ try:
 		senderUser = sender.split(' ')[0].strip()
 		senderPass = sender.split(' ')[1].strip()
 
-		email["Subject"] = "Mời tham gia khóa lập trình Python"
+		email["Subject"] = "Mời tham gia khóa học lập trình Python"
 		email["From"] = senderUser		
 		email["To"] = ", ".join(receivers)
 
