@@ -14,6 +14,7 @@ Logic:
 - If there is no email in to.txt (no receiver) but there are still emails in from.txt, display "No more receiver email"
 - Setup SMTP SSL server and login to Gmail by each sender got from from.txt
 - Send the email to every senders got from to.txt by joining all receiver emails to a single string, separated by commas
+- Print out result for each sender and all receivers after sending email
 - Must set the MIMEText() mode to 'html' so the email body can display as HTML 
 
 Note:
