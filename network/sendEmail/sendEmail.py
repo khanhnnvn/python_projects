@@ -85,5 +85,6 @@ try:
 		# Remove emails already used to send or receive
 		fromEmails = fromEmails[1:]
 		toEmails = toEmails[NUMBER_OF_EMAILS:]		
+		sleep(5000)
 except:
 	print "Unable to send email"
