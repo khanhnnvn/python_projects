@@ -12,8 +12,8 @@ DEBUG = True
 SECRET_KEY = "\r#t\xb4\xba/\x96\x9fJ\x05\xa2\x0f(\x9e=7\xeeDg\x85\x1c@\x89\xc1"
 
 # Configuration for sending email
-sender = "loaloa.test@gmail.com"
-senderPass = "testaccount@11033"
+sender = "aaa@gmail.com"
+senderPass = "aaa"
 receiver = "vumaihoan@gmail.com"
 
 app = Flask(__name__)
