@@ -1,4 +1,4 @@
-A simple server monitoring system using Flask web framework
+# A simple server monitoring system using Flask web framework
 
 Usage: first time see this web app? please run the following commands to init database:
 $ from server import init_db
